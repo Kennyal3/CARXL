@@ -12,7 +12,8 @@ Additional libraries required
 Uses Joy topic from ROS Kinetic. The Teensy subcribes to the ROS topic "/joy" via "rosserial_python serial_node.py".
 
 Hardware:
-Logitech USB game controller (joypad)
+
+Logitech F310 USB game controller (joypad)
 
 Sabertooth 2x25 Motor Driver (using packetized serial mode)
 
